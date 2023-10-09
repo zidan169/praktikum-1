@@ -1,0 +1,44 @@
+html>
+    <head>
+        <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+        <title>curiculum vitae</title>
+        
+    </head>
+    <body>
+        <h2 style="text-align:center;">Curiculum Vitae</h2><hr>
+        <p align="center">saya salah satu mahasiswa di kampus STT NF</p>
+        <h3 style="text-align:center;">Biodata Diri</h3>
+        <table border="1"cellpadding="90"align="center" width="700">
+            <tr>
+                <th width="200">Data Diri</th>
+                <th width="200">keterangan</th>
+                <th width="200">foto</th>
+            </tr>
+            <tr>
+                <td>Muhammad Zidan</td>
+                <td>suka helm</td>
+                <td rowspan="5"><img src="/storage/emulated/0/Android/media/com.whatsapp/WhatsApp/Media/WhatsApp Images/IMG-20230129-WA0003.jpg" width="250"=</td>
+            </tr>
+            <tr>
+                <td>alamat</td>
+                <td>jagakarsa</td>
+                </tr>
+                <tr>
+                    
+            <td>agama</td>
+            <td>islam</td>
+            
+            </tr>
+            <tr>
+                <td> Hobby</td>
+                <td align="center"><ul>
+                    <li>motoran</li>
+                </ul></td>
+                
+                </tr>
+                <tr>
+                    <td>social media</td>
+                    <td><a href=https://instagram.com/daann.md?igshid=YTQwZjQ0NmI0OA=="">instagram daann.md</a></td>
+        </table>
+    </body
+</html>
